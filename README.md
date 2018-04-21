@@ -36,19 +36,23 @@ We aim at delivering not just an information service but a community of pregnant
 
 
 
-![Screenshot](signup page.jpeg)
-Sign up page
+# ScreenShot
+
+![alt text](signup page.jpeg "Sign up page")
+
+
 <br/>
 
-![Screenshot](article.jpeg)
+![alt text](article.jpeg"Articles page")
 
 
-Articles page
+
 <br/>
 
-![Screenshot](find a doctor.png)
+![alt text](find a doctor.pngarticle.jpeg"Finding a doctor")
 
-Format: ![Alt Text](url)
 
-Finding a doctor
+
+
+
 <br/>
