@@ -35,17 +35,19 @@ Another concept applied is the use of easy and popular  payment methods through 
 We aim at delivering not just an information service but a community of pregnant  women and women who were pregnant but constantly referring there pregnant peers to our system and actively providing advices to expectant ladies. 
 
 
-![GitHub Logo](/images/signup page.jpeg)
-Format: ![Alt Text](url)
 
+![Screenshot](signup page.jpeg)
 Sign up page
 <br/>
-![GitHub Logo](/images/landing.html)
-Format: ![Alt Text](url)
 
-Landing page
+![Screenshot](article.jpeg)
+
+
+Articles page
 <br/>
-![GitHub Logo](/images/find a doctor.png)
+
+![Screenshot](find a doctor.png)
+
 Format: ![Alt Text](url)
 
 Finding a doctor
