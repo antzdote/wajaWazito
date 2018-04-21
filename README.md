@@ -12,7 +12,7 @@ It's basically a platform that provides a medical track for pregnant ladies righ
 We are targeting mostly the low income and middle  class people who somehow struggle to get this required  professional services that foster successful deliveries thus decrease maternal death rates in Kenya.<br/>
 On top of that we are trying to reduce this unemployment rate of our qualified doctors by providing cost free consultancies by doctors and cost friendly and professional services to wajawazitos(pregnant mums). <br/>
 <br/>
-#Problems we are solving:<br/>
+# Problems we are solving:<br/>
 
 Maternal deaths - this deaths were relatively high in the past 8 years but with the government initiative to solve this by free birth for nhif covered mother's greatly reduced the numbers with our platform we hope to reduce this numbers more through  this cost friendly platform to even the smallest mama mboga. 
 <br/>
@@ -20,17 +20,17 @@ Unemployment of doctors- according to kmpdu 1400 interns are unemployed yet the 
 <br/>
 Cost efficient and professional services-
 <br/>
-#Where is the money?<br/> 
+# Where is the money?<br/> 
 We have a lot of income generating channels the main one being through after pregnancy related products advertisements like...... 
 We believe sincee our platform will have a large traffic of pregnant women it will be the best platform for  baby reated companies to sell their products through our platform and at discount prices due to large traffic. 
 <br/>
 Another being a stipend amount from each organised treatment arranged through our platform since payment and paying are all handled through the system. <br/>
 Just to mention a few
 <br/><br/>
-#Technologies used<br/>
+# Technologies used<br/>
 Through our research we've realised many pregnant women seek assistance through popular groups in facebook. So we've based our audience reach through facebook where parents or pregnant mums can freely and happily advise other pregnant moms and the services we offer through self exposure through our system just generating alot of traffic and referrals for our system. Among the services include social facebook login and most importantly custom made sharing facility through our website to facebook.
 Another concept applied is the use of easy and popular  payment methods through mpesa and the visa apis which translate smooth payments of products we offer through our platform. 
 <br/><br/>
-#What's the future or vision of wajawazito<br/>
+# What's the future or vision of wajawazito<br/>
 We aim at delivering not just an information service but a community of pregnant  women and women who were pregnant but constantly referring there pregnant peers to our system and actively providing advices to expectant ladies. 
 
