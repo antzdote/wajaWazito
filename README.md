@@ -43,7 +43,7 @@ We aim at delivering not just an information service but a community of pregnant
 
 <br/>
 
-![alt text](Screenshots/article.png"Articles page")
+
 
 
 
